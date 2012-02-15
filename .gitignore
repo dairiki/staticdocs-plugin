@@ -1,0 +1,10 @@
+*~
+*.pyc
+/staticdocs_plugin.egg-info/
+/RELEASE-VERSION
+/build/
+/dist/
+/*-*.egg/
+
+/.coverage
+/htmlcov/
