@@ -16,6 +16,15 @@ Requirements
 This has been tested under trac 0.12.  It may well work in earlier versions.
 It probably requires python >= 2.6.
 
+Installation
+============
+
+The package can be installed from PyPI_, or you can get the raw source
+at github_.
+
+.. _PyPI: http://pypi.python.org/pypi/staticdocs-plugin
+.. _github: https://github.com/dairiki/staticdocs-plugin
+
 Configuration
 =============
 
@@ -87,6 +96,13 @@ one to control access to your static files.
 .. _ExtraPermissionsProvider:
    http://trac.edgewall.org/wiki/ExtraPermissionsProvider
 
+
+Bugs
+====
+
+If you find any, file a ticket_.
+
+.. _ticket: https://github.com/dairiki/staticdocs-plugin/issues
 
 Author
 ======
