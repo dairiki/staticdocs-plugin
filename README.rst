@@ -69,7 +69,7 @@ Bad Request`` response.)
 Content Types
 ^^^^^^^^^^^^^
 
-Currently, `mimetype.guess_type`_ is used to deduced the content type.
+Currently, `mimetype.guess_type`_ is used to deduce the content type.
 
 .. _mimetype.guess_type:
    http://docs.python.org/library/mimetypes.html#mimetypes.guess_type
